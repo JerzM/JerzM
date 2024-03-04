@@ -4,5 +4,16 @@
   "artist": "JerzM",
   "author": "JerzM",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter1 : Our phantom dreams",
+      "volume": "1",
+      "last_updated": "1709519652",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=10MQYqnrr5cchbnrrsZj-ijRg7rIb9w5U"
+        ]
+      }
+    }
+  }
 }
